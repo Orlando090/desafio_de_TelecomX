@@ -29,7 +29,7 @@ Puedes instalar las librerías requeridas:
 ## Cómo ejecutar el proyecto
 Clona el repositorio o descarga los archivos del proyecto.
 
-Abre el archivo Desafío_TelecomX_version3.ipynb en tu entorno de desarrollo.
+Abre el archivo Desafío_TelecomX_version_final.ipynb en tu entorno de desarrollo.
 
 Ejecuta las celdas en orden. El notebook incluye:
 
